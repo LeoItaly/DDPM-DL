@@ -3,8 +3,8 @@ This project contains the code for our project on implementing the paper Denoisi
 
 
 
-To see the results look at the notebooks:
-- Basic DDPM
+To see the results look at the notebooks in Results:
+- Standard DDPM
 - Scheduler Experiments
 - Classifier Free Guidance
 
