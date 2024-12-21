@@ -1,25 +1,26 @@
 # DDPM-DL
-
-
-For this project we need to implement the DDPM paper (https://arxiv.org/pdf/2006.11239). 
+This project contains the code for our project on implementing the paper Denoising Diffusion Probabilistic Models (DDPM)
 
 
 
-Steps necessary for implementation
-- Dataloading
-    - Datasplits
-- UNet architecture // This has been provided
-    - possibly extend architecture to increase performance on metrics and training
-- Denoising Diffusion model
-    - Forward diffusion
-    - Reverse diffuision
-- Loss function
-    - KL term
-    - ELBO
-- training loop
-- Evaluation and Metrics
-    - MSE
-    - RMSE
-    - FID 
-- Visualization
-- Extra experiments?
+To see the results look at the notebooks:
+- Basic DDPM
+- Scheduler Experiments
+- Classifier Free Guidance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# References
+Denoising Diffusion Probabilistic Models: https://arxiv.org/abs/2006.11239
+Classifier Free Guidance paper: https://arxiv.org/abs/2207.12598
