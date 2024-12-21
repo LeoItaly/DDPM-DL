@@ -11,6 +11,7 @@ To see the results look at the notebooks in Results:
 - [Classifier Free Guidance](Results/DDPM_CFG.ipynb)
   - Implementation of Classifier Free Guidance for DDPM models. Making it possible to conditionally generate specific digits of MNIST.
 
+For a detailed discussion of our results and methodology, check out our [DDPM_Report.pdf](path/to/DDPM_Report.pdf).
 
 
 
